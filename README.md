@@ -17,3 +17,4 @@
 2.  **Transaction Tracking**: Automated categorization of spending across all accounts.
 **Visual Analytics**: Interactive charts for spending trends and investment performance.
 .  **Budget Management**: Set and track monthly limits for different categories.
+5.  **Secure Auth**: Multi-factor authentication for data protection.
