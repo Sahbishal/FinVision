@@ -13,6 +13,7 @@
 
 
 
+
 ## ✨ Key Features (Planned)
 1.  **Wealth Dashboard**: Real-time overview of net worth, assets, and liabilities.
 2.  **Transaction Tracking**: Automated categorization of spending across all accounts.
