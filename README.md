@@ -11,7 +11,6 @@
 - **Database**: PostgreSQL (Recommended)
 - **Formatting**: Prettier with Tailwind Plugin
 
-
  
 ## ✨ Key Features (Planned)
 
