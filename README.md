@@ -10,6 +10,7 @@
 - **Database ORM**: [Prisma](https://www.prisma.io/)
 - **Database**: PostgreSQL (Recommended)
 - **Formatting**: Prettier with Tailwind Plugin
+
  
 ## ✨ Key Features (Planned)
 
