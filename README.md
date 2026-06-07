@@ -14,7 +14,6 @@
 
 
 
-
 ## ✨ Key Features (Planned)
 
 1.  **Wealth Dashboard**: Real-time overview of net worth, assets, and liabilities.
