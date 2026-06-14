@@ -21,3 +21,43 @@
 **Visual Analytics**: Interactive charts for spending trends and investment performance.
 .  **Budget Management**: Set and track monthly limits for different categories.
 5.  **Secure Auth**: Multi-factor authentication for data protection.
+
+
+## 📂 Project Structure
+
+- `src/app`: Application routes and pages.
+- `src/components`: UI components (layout, features, shadcn/ui).
+- `src/lib`: Shared utilities and Prisma client.
+- `src/services`: Business logic and third-party API integrations (e.g., Plaid).
+- `src/hooks`: Custom React hooks for state and data fetching.
+- `prisma/`: Database schema and migrations.
+
+## 🚀 Getting Started
+
+### 1. Install Dependencies
+```bash
+npm install
+```
+
+### 2. Environment Setup
+Copy the `.env` file and add your database credentials:
+```bash
+DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/finvision?schema=public"
+```
+
+### 3. Database Migration
+```bash
+npx prisma generate
+```
+
+### 4. Run Development Server
+```bash
+npm run dev
+```
+
+## 🛠️ Current Progress
+
+- ✅ Initialized Next.js project with TypeScript and Tailwind.
+- ✅ Established professional folder architecture.
+- ✅ Configured Prettier and developer tools.
+- ✅ Defined core database schema (Users, Accounts, Transactions, Budgets).
