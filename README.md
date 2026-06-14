@@ -1,4 +1,4 @@
-# FinVision 🚀
+ # FinVision 🚀
 
 **FinVision** is a production-level wealth management application designed to provide users with deep insights into their financial health through visual analytics, automated tracking, and AI-driven forecasting.
 
@@ -19,7 +19,6 @@
 **Visual Analytics**: Interactive charts for spending trends and investment performance.
 .  **Budget Management**: Set and track monthly limits for different categories.
 5.  **Secure Auth**: Multi-factor authentication for data protection.
-
 
 ## 📂 Project Structure
 
