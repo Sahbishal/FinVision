@@ -45,6 +45,7 @@ DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/finvision?schem
 ```
 
 
+
 ### 3. Database Migration
 ```bash
 npx prisma generate
