@@ -35,7 +35,6 @@
 ```bash
 npm install
 ```
-
 ### 2. Environment Setup
 Copy the `.env` file and add your database credentials:
 ```bash
