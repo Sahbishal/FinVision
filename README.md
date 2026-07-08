@@ -43,8 +43,6 @@ Copy the `.env` file and add your database credentials:
 DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/finvision?schema=public"
 ```
 
-
-
 ### 3. Database Migration
 ```bash
 npx prisma generate
