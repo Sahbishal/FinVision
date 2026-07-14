@@ -20,6 +20,7 @@
 .  **Budget Management**: Set and track monthly limits for different categories.
 5.  **Secure Auth**: Multi-factor authentication for data protection.
 
+
 ## 📂 Project Structure
 
 - `src/app`: Application routes and pages.
